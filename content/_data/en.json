@@ -103,7 +103,8 @@
       "circleci": "CircleCI",
       "ci-provider-examples": "CI Provider Examples",
       "working-with-graphql": "Working with GraphQL",
-      "real-world-testing": "Real World Testing"
+      "real-world-testing": "Real World Testing",
+      "what-is-testing": "What is Testing?"
     },
     "api": {
       "api": "API",

@@ -46,7 +46,8 @@
       "screenshots-and-videos": "screenshots-and-videos.html",
       "launching-browsers": "launching-browsers.html",
       "cross-browser-testing": "cross-browser-testing.html",
-      "web-security": "web-security.html"
+      "web-security": "web-security.html",
+      "what-is-testing": "what-is-testing.html"
     },
     "testing-strategies": {
       "auth0-authentication": "auth0-authentication.html",
@@ -94,7 +95,7 @@
       "experiments": "experiments.html"
     },
     "real-world-testing": {
-      "what-is-testing": ""
+      "what-is-testing": "what-is-testing.html"
     }
   },
   "api": {
