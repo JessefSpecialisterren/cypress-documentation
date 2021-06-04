@@ -95,7 +95,8 @@
       "experiments": "experiments.html"
     },
     "real-world-testing": {
-      "what-is-testing": "what-is-testing.html"
+      "what-is-testing": "what-is-testing.html",
+      "do-you-need-to-write-tests": "do-you-need-to-write-tests.html"
     }
   },
   "api": {

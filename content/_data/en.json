@@ -104,7 +104,8 @@
       "ci-provider-examples": "CI Provider Examples",
       "working-with-graphql": "Working with GraphQL",
       "real-world-testing": "Real World Testing",
-      "what-is-testing": "What is Testing?"
+      "what-is-testing": "What is Testing?",
+      "do-you-need-to-write-tests": "Do I need to write tests?"
     },
     "api": {
       "api": "API",
