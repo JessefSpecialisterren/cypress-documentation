@@ -105,7 +105,8 @@
       "working-with-graphql": "Working with GraphQL",
       "real-world-testing": "Real World Testing",
       "what-is-testing": "What is Testing?",
-      "do-you-need-to-write-tests": "Do I need to write tests?"
+      "do-you-need-to-write-tests": "Do I need to write tests?",
+      "the-testing-pyramid": "The Testing Pyramid"
     },
     "api": {
       "api": "API",
